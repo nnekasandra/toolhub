@@ -1,16 +1,18 @@
 export const Footer = () => {
-   <p>
-     Made with 💖 by
+   return(
+    <p>
+     Made with 💖 by 
      <a
        href="https://www.github.com/nnekasandra"
        target={"_blank"}
        rel={"noreferrer"}
      >
-       Nneka
+        Nneka
      </a>
-     for
+     for 
      <a href="https://www.outreachy.org/apply/project-selection/#wikimedia">
-       Outreachy Internship
+        Outreachy Internship
      </a>
-   </p>; 
+    </p>
+   );
 }
