@@ -1,7 +1,11 @@
 export const Footer = () => {
    <p>
      Made with 💖 by
-     <a href="https://www.github.com/nnekasandra" target={'_blank'}>
+     <a
+       href="https://www.github.com/nnekasandra"
+       target={"_blank"}
+       rel={"noreferrer"}
+     >
        Nneka
      </a>
      for
