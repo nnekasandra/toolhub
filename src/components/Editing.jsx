@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "./Button";
 export const Editing = () =>{
     return (
       <section id="edit-section" className="border  p-10 mx-10 mb-10">

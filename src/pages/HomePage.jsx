@@ -1,5 +1,5 @@
-import { About } from "../components/about";
-import { Editing } from "../components/edit";
+import { About } from "../components/About";
+import { Editing } from "../components/Editing";
 export const HomePage = () =>{
     return(
         <main>

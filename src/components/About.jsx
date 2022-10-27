@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "./Button";
 export const About = () => {
   return (
     <section className="grid md:grid-cols-2 md:gap-20 py-5 md:px-10">
