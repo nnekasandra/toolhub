@@ -22,14 +22,15 @@ export const Editing = () =>{
               className="border-2 rounded-lg text-lg border-black p-2 "
               type={"url"}
               placeholder="Enter missing field ..."
+              data-testid="input"
               autoFocus
             />
             <Button
               title="Edit"
-              onClick={console.log("You have updated the missing field")}
             />
           </div>
         </div>
       </section>
     );
 }
+export default Editing;

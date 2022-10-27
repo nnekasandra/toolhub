@@ -1,6 +1,10 @@
 export const Footer = () => {
    return (
-     <section className="bg-trusty-blue text-center py-8 text-white text-lg">
+     <section
+       className="bg-trusty-blue text-center py-8 text-white text-lg footer"
+       id="footer"
+       data-testid="html-element"
+     >
        <p>
          Made with 💖 by
          <a
