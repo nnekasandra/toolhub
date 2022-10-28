@@ -2,13 +2,14 @@
 module.exports = {
   content: ["./src/App.js", "./public/index.html", "./src/**/*.{html,js,jsx}"],
   theme: {
-    screens:{
-      'md':'800px'
+    screens: {
+      md: "800px",
     },
     extend: {
       colors: {
-        'trusty-blue': '#368cbf'
-      }
+        "trusty-blue": "#368cbf",
+        "border-color": "#10558d",
+      },
     },
   },
   plugins: [],
