@@ -1,14 +1,5 @@
 export const Arrange = (props) =>{
     return (
-      <div>
-        <table>
-          <thead>
-            <tr>
-              <th>User</th>
-              <th>Number of Edits</th>
-              <th>Score</th>
-            </tr>
-          </thead>
           <tbody>
             <tr>
               <td>
@@ -25,7 +16,5 @@ export const Arrange = (props) =>{
               <td>{props.score}</td>
             </tr>
           </tbody>
-        </table>
-      </div>
     );
 }
