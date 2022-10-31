@@ -1,7 +1,7 @@
 import { Arrange } from "../components/Arrange";
 import { UserCard } from "../components/UserCard";
 
-import { faMap, faFlag, faMapLocation } from "@fortawesome/free-solid-svg-icons";
+import { faMap } from "@fortawesome/free-solid-svg-icons";
 export const Leaderboard = ()=>{
     return (
       <main>
