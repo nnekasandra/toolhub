@@ -2,14 +2,19 @@
 
 ## Introduction
 [Toolhub](https://toolhub.wikimedia.org/) is a catalog of tools hosted and managed by the wikimedia organization. It's a project I carried out in the contribution phase for the [Outreachy December, 2022 Internship ](https://www.outreachy.org)
+
 ### Project Description
 The project which I decided to name **ToolEdit** is a project given during [Outreachy December, 2022 Internship ](https://www.outreachy.org) contribution phase. I contributed to the wikimedia organization in the internship which owns the tools on [Toolhub](https://toolhub.wikimedia.org/). The major task was to design and implement a web application to update tools with missing fields in other to make tools more relevant to users and developers who need the tools. 
 This web application provides the name and description of a tool, it then asks the user to find the requested missing field. 
+
 There are three main pages in this web application; which are:
 1. The Homepage: Where users can edit tools information
 2. The Dashboard: Here, users can see the analytics and how information about tools are recorded.
 3. The Leaderboard: Where users are ranked according to their scores.
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667173150536/cg0_eVUtP.png align="left")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667173150536/cg0_eVUtP.png)
+
+
 **Note:** Most of the task here are front-end task with little or no interactivity.
 
 ## Setup
